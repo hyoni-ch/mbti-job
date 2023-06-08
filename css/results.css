@@ -52,6 +52,7 @@ body {
   height: 200px;
   display: flex;
   gap: 10px;
+  margin-bottom: 40px;
 }
 
 .result .job {
